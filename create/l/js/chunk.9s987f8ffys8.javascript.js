@@ -2,7 +2,7 @@ document.write('<div class="main">');
 document.write('        <div class="option-nav">');
 document.write('            <h1 class="creation-text">Creations</h1>');
 document.write('            <button class="option">Games</button>');
-document.write('            <button class="option">Clothing</button>');
+document.write('            <a href="develop-items?models"><button class="option">Development Items</button></a>');
 document.write('        </div>');
 document.write('        <div class="create-games-section">');
 document.write('            <div class="options2">');
